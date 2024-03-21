@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otus_ParallelFilesReading", "otus_ParallelFilesReading.csproj", "{B5610E97-4D42-47F0-9153-AA8771BECFF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5610E97-4D42-47F0-9153-AA8771BECFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5610E97-4D42-47F0-9153-AA8771BECFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5610E97-4D42-47F0-9153-AA8771BECFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5610E97-4D42-47F0-9153-AA8771BECFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91510795-2E5C-48D3-8B57-3F02067A7701}
+	EndGlobalSection
+EndGlobal
